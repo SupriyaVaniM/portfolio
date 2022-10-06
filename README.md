@@ -1,6 +1,6 @@
 # portfolio
+Working on it will be ready soon
 
-A new Flutter project.
 
 ## Getting Started
 
